@@ -1,4 +1,4 @@
-Link-movie-clone-psi.vercel.app
+Link:- https://movie-clone-psi.vercel.app/
 
 # 🎬 MoviePlex - Premium Movie Streaming UI Clone
 
